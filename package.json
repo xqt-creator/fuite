@@ -1,5 +1,5 @@
 {
-  "name": "@xqt/fuite",
+  "name": "xqt-fuite",
   "version": "1.0.0",
   "description": "A tool for finding memory leaks in web apps,skip some analysis for test",
   "type": "module",
