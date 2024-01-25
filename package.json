@@ -1,7 +1,7 @@
 {
-  "name": "fuite",
-  "version": "4.0.2",
-  "description": "A tool for finding memory leaks in web apps",
+  "name": "@xqt/fuite",
+  "version": "1.0.0",
+  "description": "A tool for finding memory leaks in web apps,skip some analysis for test",
   "type": "module",
   "main": "./src/index.js",
   "module": "./src/index.js",
